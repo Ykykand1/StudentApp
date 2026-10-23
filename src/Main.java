@@ -8,5 +8,5 @@ void main() {
     System.out.println(studenti.emri);
     System.out.println(studenti.nota);
 
-    System.out.println("Studenti u regjistrua me sukses");
+    System.out.println("Regjistrimi perfundoi");
 }
