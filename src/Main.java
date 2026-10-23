@@ -7,4 +7,6 @@ void main() {
 
     System.out.println(studenti.emri);
     System.out.println(studenti.nota);
+
+    System.out.println("Studenti u regjistrua");
 }
